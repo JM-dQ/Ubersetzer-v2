@@ -16,12 +16,6 @@ struct AppVariables {
     api_key: String,
 }
 
-
-// Todo:
-// Organize and remove useless functions
-// Deal with the warnings
-// Change both titles
-
 fn main() {
 
 
